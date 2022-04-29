@@ -1,0 +1,68 @@
+p {
+	font-size: 17px;
+	font-family: "Times New Roman", serif;
+	font-style: bold;
+}
+
+body {
+	background-color: #808080;
+}
+
+.foto1{
+	border: 2px solid black;
+	border-radius: 3%;
+	width: 70%;
+	height: 70%;
+	display: flex;
+}
+
+.foto2{
+	border: 2px solid black;
+	border-radius: 3%;
+	width: 70%;
+	height: 70%;
+	display: flex;
+}
+.foto3{
+	border: 2px solid black;
+	border-radius: 3%;
+	width: 70%;
+	height: 70%;
+	display; flex;
+
+}
+.foto4{
+	border: 2px solid black;
+	border-radius: 3%;
+	width: 70%;
+	height: 70%;
+	display: flex;
+}
+
+.foto5{
+	border: 2px solid black;
+	border-radius: 3%;
+	width: 35%;
+	height: 35%;
+	display: flex;
+	position: center;
+}
+
+.fotohead {
+	border: 2px solid black;
+	border-radius: 5%;
+	width: 100%;
+
+}
+
+.container {
+  margin-top: 3px;
+  width: 100%;
+  height: auto;
+}
+
+.containerhead {
+	width: 100%;
+	height: 100%;
+}
+
